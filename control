@@ -1,0 +1,9 @@
+Package: xyz.henryli17.alwayslandscape
+Name: AlwaysLandscape
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Force apps to be in landscape regardless of orientation lock.
+Maintainer: Henry Li
+Author: Henry Li
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
